@@ -36,6 +36,7 @@ public class Student {
     void myTest()
     {
          System.out.println("Test");
+         System.out.println("Test");
     }
    
     void testAll()
