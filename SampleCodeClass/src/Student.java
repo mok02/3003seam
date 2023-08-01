@@ -32,6 +32,11 @@ public class Student {
         System.out.println("Testing...");
 
     }
+
+    void myTest()
+    {
+         System.out.println("Test");
+    }
    
     void testAll()
  {
